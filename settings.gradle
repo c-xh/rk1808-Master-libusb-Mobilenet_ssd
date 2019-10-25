@@ -1,0 +1,2 @@
+include ':mobilenet_ssd'
+rootProject.name='mobilenet-ssd'
